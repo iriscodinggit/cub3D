@@ -1,10 +1,10 @@
 # 🧊 Cub3D
 
-Cub3D is a project to practice **simulating 3D environments** using raycasting.
+Cub3D is a project to practice **simulating 3D environments** using **raycasting**. 🎮
 
 > 🎓 This project was developed collaboratively with misaac-c
 
-## 🎮 Features
+## 🕹️ Features
 
 - Real-time rendering with **raycasting**
 - Basic movement (WASD) and camera rotation
