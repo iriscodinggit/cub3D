@@ -22,7 +22,7 @@ Cub3D is a project to practice **simulating 3D environments** using **raycasting
 ## 🚀 Getting Started
 
 ```bash
-git clone git@github.com:iriscodingit/cub3d.git
+git clone git@github.com:iriscodinggit/cub3d.git
 cd cub3d
 make
 ./cub3D src/maps/pastel.cub
